@@ -5,6 +5,7 @@
   "author": "Alvaro Saburido <hola@alvarosaburido.dev>",
   "license": "MIT",
   "type": "module",
+  "packageManager": "pnpm@8.4.0",
   "keywords": [
     "slidev",
     "slidev-theme-penguin",
