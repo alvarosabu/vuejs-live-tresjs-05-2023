@@ -314,7 +314,7 @@ scene.add(donut)
     <TresMesh >
       <TresTorusGeometry :args="[1, 0.5, 16, 32]" />
       <TresMeshBasicMaterial color="orange" />
-    <TresMesh />
+    </TresMesh>
 </TresCanvas>
 ```
 </v-click>
